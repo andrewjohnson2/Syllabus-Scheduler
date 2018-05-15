@@ -1,5 +1,8 @@
-import pyPdf
 import datefinder
+import pyPdf
+import parsedatetime
+
+
 
 pdf = pyPdf.PdfFileReader(open('Syllabus-ACC 301 VANCE.pdf', "rb"))
 pdf_text = ''
@@ -14,12 +17,10 @@ for page in pdf.pages:
 # text = file.read()
 
 # print pdf_text
-dates = datefinder.find_dates(pdf_text)  # text)
+dates = datefinder.find_dates(pdf_text, False, True, False)  # text)
 
+p = parsedatetime.Calendar();
+print p.parse("Monday, April 23, from 10:30 a.m. to 12:30 p.m.")
 
-
-for date in dates:
-    if date.year == 2018 or date.year == 2019:
-        print date
 
 # file.close()
