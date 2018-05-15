@@ -1,7 +1,7 @@
 import pyPdf
 import datefinder
 
-pdf = pyPdf.PdfFileReader(open('test_pdf.pdf', "rb"))
+pdf = pyPdf.PdfFileReader(open('Syllabus-ACC 301 VANCE.pdf', "rb"))
 pdf_text = ''
 for page in pdf.pages:
     pdf_text += page.extractText()
