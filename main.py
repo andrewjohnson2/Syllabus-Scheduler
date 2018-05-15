@@ -4,6 +4,8 @@ import pyPdf
 import regex as re
 
 
+
+
 def extract_date_strings(self, text, strict=False):
     """
     Scans text for possible datetime strings and extracts them
@@ -52,6 +54,7 @@ def extract_date_strings(self, text, strict=False):
 
 datefinder.DateFinder.extract_date_strings = extract_date_strings
 
+
 pdf = pyPdf.PdfFileReader(open('econ101.pdf', "rb"))
 pdf_text = ''
 for page in pdf.pages:
@@ -64,7 +67,10 @@ for page in pdf.pages:
 # text = file.read()
 
 # print pdf_text
-dates = datefinder.find_dates(pdf_text, False, False, True)  # text)
+
+pdf_text = 'Exam 3 Wednesday April 25 1030 am'
+
+dates = datefinder.find_dates(pdf_text, True, False, True)  # text)
 
 for date in dates:
     print date
