@@ -1,6 +1,8 @@
 import datefinder
 import pyPdf
 
+import regex as re
+
 
 def extract_date_strings(self, text, strict=False):
     """
@@ -48,9 +50,9 @@ def extract_date_strings(self, text, strict=False):
         yield match_str, indices, captures
 
 
-datefinder.extract_date_strings = extract_date_strings
+datefinder.DateFinder.extract_date_strings = extract_date_strings
 
-pdf = pyPdf.PdfFileReader(open('Syllabus-ACC 301 VANCE.pdf', "rb"))
+pdf = pyPdf.PdfFileReader(open('econ101.pdf', "rb"))
 pdf_text = ''
 for page in pdf.pages:
     pdf_text += page.extractText()
