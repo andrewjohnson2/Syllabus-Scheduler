@@ -13,9 +13,13 @@ for page in pdf.pages:
 
 # text = file.read()
 
+# print pdf_text
 dates = datefinder.find_dates(pdf_text)  # text)
 
+
+
 for date in dates:
-    print date
+    if date.year == 2018 or date.year == 2019:
+        print date
 
 # file.close()
