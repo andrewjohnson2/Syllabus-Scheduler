@@ -1,10 +1,578 @@
+University of Michigan, Ross School of Business
+FIN 300: Financial Management
+Winter 2018
+Instructor: Indrajit Mitra
+Class time, Location:
+Office Hours:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. January 5, 2019 Nullam in augue id enim condimentum fermentum nec in sem. In sit amet felis id justo pulvinar fringilla vel non elit. Quisque scelerisque dictum nunc, vel lobortis ligula suscipit quis. Morbi at dignissim nulla, quis bibendum urna. Donec porttitor suscipit laoreet. Donec sollicitudin metus est, vel varius urna laoreet at. Nulla sagittis ipsum vel tincidunt imperdiet. Praesent cursus fringilla ante, at cursus ex rhoncus non. Quisque quis lacus non sapien vestibulum vehicula sed ac nibh. Donec lacinia dignissim venenatis.
+Office:
+E-mail:
+Course website:
 
-Praesent ac varius lorem. Pellentesque sollicitudin eget velit sit amet posuere. Quisque at varius nisi, a luctus lacus. Proin luctus sem id leo venenatis, eu laoreet dolor semper. Aliquam in ultrices augue. Sed tempor tempor ornare. Cras ante tortor, efficitur nec tellus vitae, ornare porta nibh. Etiam vitae accumsan ex. Cras eget mauris justo. Duis nulla dui, molestie quis tortor sed, malesuada pellentesque lectus.
+002: Monday & Wednesday, 10:00am-11:30am, R2210 BUS
+004: Monday & Wednesday, 1:00pm-2:30pm, R2210 BUS
+005: Monday & Wednesday, 2:30pm-4:00pm, R2210 BUS
+Mondays 4:15pm – 5:45pm and by appointment.
+Exceptions – such as additional office hours before exams – will
+be announced in class or on Canvas.
+R4462
+imitra@umich.edu
+canvas.umich.edu.
 
-Aliquam ac lect 1/1/2011 us eu augue vehicula facilisis ac nec risus. Quisque laoreet elit viverra orci viverra, eget placerat tellus iaculis. Nunc ultricies cursus massa, sit amet faucibus justo efficitur a. Suspendisse imperdiet odio non erat volutpat, ac porta mi ullamcorper. Pellentesque id massa risus. Nam luctus pulvinar eleifend. Etiam placerat ligula turpis, in tempus sem vulputate id. Sed interdum placerat risus. Pellentesque vestibulum sit amet enim vulputate aliquam. Pellentesque lectus metus, aliquet sit amet bibendum at, egestas quis est. Vestibulum sit amet purus non erat tempus tristique. Phasellus eget neque sed justo ornare fermentum ut ac lectus.
+Course description and objectives:
+FIN300 and FIN302 are designed to familiarize students with the basic tools and concepts of
+Finance, and to enable students to pursue additional courses in investments, corporate finance,
+capital markets, and financial institutions. Financial Management topics will include the time
+value of money, the valuation of riskless and risky assets, market efficiency, corporate
+investment decision making, capital structure decisions, and risk management.
+The course will be primarily lecture based. Lectures will cover theoretical concepts necessary to
+analyze complex financial decisions as well as examples and applications used in the industry.
+Course materials
+The readings and requirements for the course are based on Ross, Westerfield and Jaffe’s
+“Corporate Finance” (10th edition). However, feel free to purchase used versions and/or older
+versions (8th, 9th edition). Older versions are substantially cheaper. Bear in mind: Slight changes
+will most likely exist between editions (different numbers in examples, sometimes different
+order of chapters, etc.) but the concepts remain the same.
+Practice Questions (and Solutions) from the 10th edition will be posted on the course homepage
+to avoid confusion caused by differences in practice questions across different versions. I
+recommend owning a hardcopy of the book.
+Besides this book, any additional material will be either handed out in class or posted on the
+course website.
 
-Nulla dapibus rutrum eleifend. Donec consequat libero massa, 5/19/19 in commodo risus elementum sed. Suspendisse quis dolor a velit scelerisque laoreet sed sit amet libero. Fusce aliquam massa libero, sed pharetra leo blandit id. Praesent tristique accumsan pellentesque. Aenean gravida, odio blandit auctor viverra, leo nibh tincidunt risus, eu laoreet neque orci in dolor. Proin rutrum quis diam ac placerat. Nunc auctor nulla a erat dictum posuere at ut risus.
+FIN 300: Financial Management / Making Financial Decisions - Winter 2017
 
-iet a dolor vehicula egestas. Nulla in neque ligula. In lacinia et erat in ullamcorper. Duis March 5 malesuada feugiat lectus, porta volutpat turpis imperdiet nec.Suspendisse imperd
+A simple calculator or financial calculator is required. A financial calculator is
+recommended but not required. Many of the problems you will encounter require arithmetic
+operations that are easier to solve with a financial calculator than with non-financial calculators,
+especially in the limited time frame of an exam. If you decide to use a financial calculator, it is
+your responsibility to learn how to use it. I will post instructions on Canvas and have TAs help
+you to learn how to use it. We will spend zero class time on learning how to use a calculator.
+Homework Assignments
+Four problem sets will be posted on the course website. You must turn in your homework by
+11.59pm on the due date. No late homework will be accepted. Homework due dates are:
+Homework
+
+January 29
+
+Homework
+
+February 14
+
+Homework
+
+Mar 21
+
+Homework
+
+April 11
+
+You are allowed to work together on homework assignments – and I encourage you to work
+together! However, you must hand in your own individual homework. Photocopies of
+others’ work are unacceptable. You must show how you obtained all your answers.
+Homework assignments are graded pass (1) / fail (0): to pass, you need to attempt to answer all
+questions. Incorrect answers will not be penalized.
+Final Exam and Mid-Term
+Note that the mid-term starts on Michigan time and you have to be in the room by that time.
+The final exam starts as stated (non-Michigan time). Exam dates are:
+MID TERM EXAM:
+
+February 21st
+
+FINAL EXAM:
+
+April 24th
+
+There will be no makeup mid-term. If you miss the mid-term exam due to a well-documented
+valid written excuse (e.g. a doctor’s note, religious holiday), your grade will be based on your
+other work. Otherwise, missing the mid-term is equivalent to getting a grade of zero for the
+mid-term. It is RSB policy to not consider recruiting activities an excuse for a missed
+exam.
+You will be allowed to bring one sheet of paper (maximum size: 8-1/2” x 11”) with notes and
+formulas (both sides are ok) on it to the exam room. The paper must be handwritten (not
+photocopied, not from a computer print-out) and handed in along with the mid-term/final
+exam. You can get that sheet back a few days after the test/exam.
+You will be allowed to bring a calculator, but no programmed text in the calculator. No
+laptops, no iPads, no etc. Cell phones, smartphones, and all electronic devices must be
+turned off during tests and exams. All exams must be completed individually.
+The final exam will be based on all material covered in class.
+
+2 of 7
+
+FIN 300: Financial Management / Making Financial Decisions - Winter 2017
+
+Grading
+Your course grade will be weighted as follows:
+Homework:
+
+5%
+
+Mid-term:
+
+30%
+
+Final Exam:
+
+50%
+
+Class participation:
+
+15%
+
+Allocation of participation points is at the discretion of the instructor. Factors that influence the
+participation portion of your grade include attendance, being on time, not leaving early, not
+disturbing class or others, and (quality of) contributions to the class discussion.
+If you have a question about the way I grade any of your work, come and talk to me
+immediately. If you disagree with the grade even after you have discussed it with me, you must
+submit your question in writing within one week after I return your work. If you appeal, I will
+re-grade your entire assignment; your grade may increase, decrease, or remain the same.
+The grading policy at Ross mandates < 40% at A− or above, < 90% at B or above, and > 10% at
+B− or below for this class. Consistent with this policy, BBA students will be ranked across all
+BBA students in all my sections and non-BBA students will be ranked across all non-BBA
+students in all my sections. According to that ranking, final grades will be assigned as follows:
+A+
+
+up to 5%
+
+A
+
+15%
+
+A−
+
+20%
+
+B+
+
+25%
+
+B
+
+25%
+
+B− or below 10%
+Academic Honor Code
+Personal integrity and professionalism are fundamental values of the Ross School of Business
+community. This course will be conducted in strict conformity with the Academic Honor Code.
+The
+Code
+and
+related
+procedures
+can
+be
+found
+at
+http://www.bus.umich.edu/Academics/Resources/communityvalues.htm. The site also contains
+comprehensive information on how to be sure that you have not plagiarized the work of others.
+Claimed ignorance of the Code and related information appearing on the site will be viewed as
+irrelevant should a violation take place. Non-Ross students taking the course should also
+familiarize themselves with the Code as they will be subject to the Code while enrolled in this
+course.
+Special Considerations
+The University of Michigan is committed to providing equal opportunity for participation in
+all programs, services and activities. Students wishing to receive testing accommodations
+must register with the UM SSD (Services for Students with Disabilities) as soon as possible.
+
+3 of 7
+
+FIN 300: Financial Management / Making Financial Decisions - Winter 2017
+
+It is the student’s responsibility to submit their written request and Verified Individualized
+Services and Accommodations (VISA) form to the instructor as early as possible, but no
+later than two weeks prior to the test or quiz for which accommodations are requested. In
+rare cases, the need for an accommodation arises after the two week deadline has passed
+(for example, a broken wrist). In these cases the student should still contact SSD and the
+instructor - however, due to logistical constraints we cannot guarantee that an
+accommodation can be made after the two week deadline has passed. Requests only need
+to be made once for each class.
+Requests may be made through the Testing Accommodations survey and must include a
+scanned or photographed copy of the VISA form.
+
+Class Norms and Expectations
+Your dedication and class participation will determine how much you learn in this course. To
+this end, I expect you to observe the following norms:
+
+
+Come to class on time and stay until the end. Late arrival and early departure without
+my explicit prior approval are unacceptable. Leaving during class and coming back with
+a beverage or food in hand is very unacceptable and rude.
+
+
+
+Ask questions whenever something is not clear. It takes time to learn new concepts and
+asking questions helps immensely. Asking questions will not adversely affect your
+participation grade. If I do not know the answer to your question right away, I will get
+back to you as soon as possible.
+
+
+
+Participate actively in class lectures and discussions. This way you will get the most
+out of this course. I may systematically cold call on individuals. So read up the
+suggested material before you come to class.
+
+
+
+I will never view honest mistakes negatively. I will use them as valuable learning
+opportunities. Furthermore, it is better to make your mistakes in class than at work as
+there are no monetary implications for mistakes made in class. In general, honest
+mistakes will not adversely affect participation.
+
+
+
+Treat your fellow students with respect, listen to their answers and react to the
+issues raised by them. Always. You will be surprised how much you can learn from
+each other.
+
+
+
+Please turn cell phone ringers off during class. If some emergency requires you to
+leave your cell phone on, please let me know before class. If your cell phone rings in
+class, I will reserve the right of answering it for you (this may affect your class
+participation though – and your relationship to the caller).
+
+
+
+I am keen on hearing your feedback throughout the course. Feel free to email, call, or
+send anonymous notes. I appreciate your comments and suggestions. Feedback will not
+adversely affect your participation grade.
+
+4 of 7
+
+FIN 300: Financial Management / Making Financial Decisions - Winter 2017
+
+
+
+You are responsible for announcements made in class, such as changes to the schedule,
+changes in homework due dates, and additional reading. If you are absent, consult a
+classmate. I expect that you cooperate with your classmates. If you do it well, you will
+learn at least as much from them as from the lectures.
+
+
+
+Please prepare a legible name card and put it up in front of you during every lecture.
+This will help me and your peers to learn your names more quickly.
+
+
+
+I am not strictly opposed to the use of laptops in class. However, I will have to ask you
+to sit in the back rows so as not to distract others, to switch off internet access, and to
+mute the loud speakers.
+
+
+
+It is your responsibility to check the course website as frequently as possible (at least on
+a daily basis) so that you do not miss any announcement posted there.
+
+Class Schedule
+The following table describes our class schedule. The schedule is tentative: the topics covered
+on each proposed date may change depending on our pace.
+
+Class
+
+Topics Covered
+
+Textbook Reading
+
+Jan 8
+
+
+
+
+Course Introduction
+Financial Statements &
+Cash Flows
+
+
+
+Chapters 1 & 2
+
+Jan 10
+
+
+
+Discounted Cash Flow
+Valuation I
+
+
+
+Chapter 4
+
+Jan 17
+
+
+
+Discounted Cash Flow
+Valuation II
+
+
+
+Chapter 4
+
+Jan 22
+
+
+
+Investment Decision
+Rules
+
+
+
+Chapter 5
+
+Jan 24
+
+
+
+Making Capital
+Investment Decisions
+
+
+
+Chapter 6
+
+Jan 29
+
+
+
+Applications #1
+
+Jan 31
+
+
+
+Risk Analysis and Real
+Options
+
+Assignments Due
+
+
+
+
+Chapter 7
+
+5 of 7
+
+Homework #1 Due
+
+FIN 300: Financial Management / Making Financial Decisions - Winter 2017
+
+Class
+
+Topics Covered
+
+Textbook Reading
+
+Feb 05
+
+
+
+Bond Valuation I
+
+
+
+Chapter 8
+
+Feb 07
+
+
+
+Bond Valuation II
+
+
+
+Chapter 8
+
+Feb 12
+
+
+
+Stock Valuation
+
+
+
+Chapter 9
+
+Feb 14
+
+
+
+Stock Valuation &
+Applications #2
+
+
+
+Chapter 9
+
+Feb 19
+
+
+
+Applications #2
+
+Feb 21
+
+
+
+MID-TERM EXAM
+DURING CLASS TIME
+
+Feb 26,
+Mar 1
+
+
+
+BREAK
+
+Mar 5
+
+
+
+Risk & Return
+
+
+
+Chapter 10
+
+Mar 07
+
+
+
+The Capital Asset Pricing
+Model (CAPM) I
+
+
+
+Chapter 11
+
+Mar 12
+
+
+
+The Capital Asset Pricing
+Model (CAPM) II
+
+
+
+Chapter 11
+
+Mar 14
+
+
+
+Efficient Capital Markets
+
+
+
+Chapter 14
+
+6 of 7
+
+Assignments Due
+
+Homework #2 Due
+
+FIN 300: Financial Management / Making Financial Decisions - Winter 2017
+
+Class
+
+Topics Covered
+
+Textbook Reading
+
+Mar 19
+
+
+
+Risk, Cost of Capital, and
+Valuation: Weighted
+Average Cost of Capital
+(WACC)
+
+
+
+Mar 21
+
+
+
+Applications #3
+
+Mar 26
+
+
+
+Long-Term Financing
+
+
+
+Chapter 15
+
+Mar 28
+
+
+
+Capital Structure
+
+
+
+Chapter 16
+
+Apr 02
+
+
+
+Limits to the Use of Debt
+
+
+
+Chapter 17
+
+Apr 04
+
+
+
+Dividends and Other
+Payouts
+
+
+
+Chapter 19
+
+Apr 09
+
+
+
+Risk Management/
+Options I
+
+
+
+Chapter 22
+
+Apr 11
+
+
+
+Risk Management/
+Options II
+
+
+
+Chapter 22
+
+Apr 16
+
+
+
+Exam Review
+
+Assignments Due
+
+Chapter 13
+
+Homework #3 Due
+
+7 of 7
+
+
+
+Homework #4 Due
