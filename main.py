@@ -69,15 +69,12 @@ datefinder.DateFinder.extract_date_strings = extract_date_strings
 
 
 
-pdf_text = textract.process("syllabus/PDFPublicHandler.ashx-2.pdf")
+pdf_text = textract.process("syllabus/econ101.pdf")
 
 print pdf_text
 
 
 file = open('test_input.txt', 'r')
-
-
-pdf_text = 'February 14/16 February 8'
 
 dates = datefinder.find_dates(pdf_text, True, False, True)  # text)
 
